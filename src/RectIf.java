@@ -19,7 +19,7 @@ public class RectIf extends MyFrame{
 	//	}
 	
 		
-		int rgb = 0;
+	//	int rgb = 0;
 	//	for (int i=0; i<10; i++)
 	//	{	
 	//		rgb += 20;
@@ -28,12 +28,12 @@ public class RectIf extends MyFrame{
 	//		x+=15;
 	//	}
 		
-		for (int i=0; i<10; i++)
-		{
-			rgb -= 20;
-			setColor(rgb,rgb,rgb);
-			fillRect(x,100,10,100);
-			x+=15;
-		}
+	//	for (int i=0; i<10; i++)
+	//	{
+	//		rgb -= 20;
+	//		setColor(rgb,rgb,rgb);
+	//		fillRect(x,100,10,100);
+	//		x+=15;
+	//	}
 
 }}
